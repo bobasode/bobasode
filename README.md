@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I’m currently learning about building modern web applications and exploring **Web3** technologies. 
 
 <!--
 **bobasode/bobasode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
